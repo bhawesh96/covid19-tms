@@ -11,7 +11,7 @@
   <title>Covid-19 Testing Management System</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
   <link href="/css/scrolling-nav.css" rel="stylesheet">
@@ -119,11 +119,11 @@ Reported illnesses have ranged from mild symptoms to severe illness and death</p
   </footer>
 
   <!-- Bootstrap core JavaScript -->
-  <script src="/vendor/jquery/jquery.min.js"></script>
-  <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/static/jquery/jquery.min.js"></script>
+  <script src="/static/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="/static/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom JavaScript for this theme -->
   <script src="/js/scrolling-nav.js"></script>
